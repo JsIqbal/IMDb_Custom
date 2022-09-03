@@ -1,0 +1,12 @@
+1. table header will have sort icon.
+2. like component.
+3. filter data.
+4. pageinnation.
+5. no classes, all will be functional component.
+6. use state, use effect
+7. react router DOM.
+
+8. Project : Enterprise level.
+9. REDUX.
+10. Regular expression.
+11. NEXT.js(A React framework).
