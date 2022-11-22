@@ -21,6 +21,20 @@ function MovieList (props) {
         setMovies(movieList);
     }, []);
 
+    return (
+        <Table 
+            items={movies}
+            columns={columns}
+            limit={limit}
+            currentPage={3}
+        />
+    );
+}
+ 
+export default MovieList;
+
+
+
     /*
         # Class Component:
         1. Mounting phase: 
@@ -38,15 +52,3 @@ function MovieList (props) {
         # Functional Component:
             componentDidMount, componentDidUpdate, componentWillUnmount => useEffect
     */
-
-    return (
-        <Table 
-            items={movies}
-            columns={columns}
-            limit={limit}
-            currentPage={3}
-        />
-    );
-}
- 
-export default MovieList;
