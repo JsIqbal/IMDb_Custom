@@ -4,11 +4,11 @@ function TableBody({ items, columns }) {
     return (
         <tbody>
             {
-                items.map(item => (
-                    <tr key = { item.path } >
+                items.map((item, index) => (
+                    <tr key = { index } >
                         {
                             columns.map(column => (
-                                <td>{ column.content(item, column.path) }</td>
+                                <td key={column.path}>{ column.content(item, column.path) }</td>
                             ))
                         }
                     </tr>

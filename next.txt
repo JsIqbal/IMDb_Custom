@@ -10,3 +10,9 @@
 9. REDUX.
 10. Regular expression.
 11. NEXT.js(A React framework).
+
+---
+1. bind,
+2. apply,
+3. call.
+this three are fascinating q.
