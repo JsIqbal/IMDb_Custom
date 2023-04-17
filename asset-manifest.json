@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/router-dom-v6/static/js/main.efe39e1a.js",
+    "static/js/632.c9123414.chunk.js": "/router-dom-v6/static/js/632.c9123414.chunk.js",
+    "static/css/405.f423f86d.chunk.css": "/router-dom-v6/static/css/405.f423f86d.chunk.css",
+    "static/js/405.7414cd25.chunk.js": "/router-dom-v6/static/js/405.7414cd25.chunk.js",
+    "static/css/342.5ad678f6.chunk.css": "/router-dom-v6/static/css/342.5ad678f6.chunk.css",
+    "index.html": "/router-dom-v6/index.html",
+    "main.efe39e1a.js.map": "/router-dom-v6/static/js/main.efe39e1a.js.map",
+    "632.c9123414.chunk.js.map": "/router-dom-v6/static/js/632.c9123414.chunk.js.map",
+    "405.f423f86d.chunk.css.map": "/router-dom-v6/static/css/405.f423f86d.chunk.css.map",
+    "405.7414cd25.chunk.js.map": "/router-dom-v6/static/js/405.7414cd25.chunk.js.map",
+    "342.5ad678f6.chunk.css.map": "/router-dom-v6/static/css/342.5ad678f6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/main.efe39e1a.js"
+  ]
+}
